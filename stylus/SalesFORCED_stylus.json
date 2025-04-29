@@ -19,7 +19,7 @@
   {
     "enabled": true,
     "installDate": 1745949513886,
-    "name": "SalesFORCED email box",
+    "name": "SalesFORCED Email Box",
     "sections": [
       {
         "code": "div#cke_1_contents.cke_contents { height: 505px !important; }\niframe[title=\"CK Editor Container\"] { height: 550px !important; }",
