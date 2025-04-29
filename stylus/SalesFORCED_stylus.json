@@ -1,0 +1,36 @@
+[
+  {
+    "enabled": true,
+	"installDate": 1745949513886,
+    "name": "SalesFORCED Columns",
+    "sections": [
+      {
+        "code": "#leftColumn-57, [id^=\"leftColumn-\"], .col.left-col.slds-col { flex: 0 0 20% !important; }\n#middleColumn-57, [id^=\"middleColumn-\"], .col.main-col.slds-col { flex: 1 0 86% !important; }\n#rightColumn-57, [id^=\"rightColumn-\"], .col.right-col.slds-col { flex: 0 0 20% !important; }",
+        "urlPrefixes": [
+          "https://trustedtechteam.lightning.force.com/lightning/r/Case"
+        ]
+      }
+    ],
+    "_id": "35f16c27-6f54-4dda-b378-d2ad1ab8f8b3",
+    "id": 14,
+    "_rev": 1745949490578,
+    "updateDate": 1745949490577
+  },
+  {
+    "enabled": true,
+    "installDate": 1745949513886,
+    "name": "SalesFORCED email box",
+    "sections": [
+      {
+        "code": "div#cke_1_contents.cke_contents { height: 505px !important; }\niframe[title=\"CK Editor Container\"] { height: 550px !important; }",
+        "urlPrefixes": [
+          "https://trustedtechteam.lightning.force.com/email/htmlbody"
+        ]
+      }
+    ],
+    "updateDate": 1745949490577,
+    "_id": "ad1f39a0-682c-4732-8035-855f140d5dc7",
+    "_rev": 1745949513887,
+    "id": 15
+  }
+]
