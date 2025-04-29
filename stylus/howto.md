@@ -10,3 +10,4 @@
 7. Select the json file you downloaded in step 2 and click **Open**
 
 Note: To disable either modification, open the Stylus extension and click Manage, then un-check either of the boxes next to SalesFORCED Columns or SalesFORCED Email Box
+Note: You can click into either modification to modify the values, though changing the sidebar sizes isn't as easily as it looks.

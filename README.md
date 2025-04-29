@@ -1,8 +1,8 @@
 # salesFORCED
 ## Salesforce administrators hate these simple tricks!
 
-### Add your Signature
-- Coming soon
+### [Add your Signature](signatures/howto.md)
+- Use a formatted signature (just like Zoho) in Salesforce
 ### [Smaller Columns, Bigger Email Box](stylus/howto.md)
 - Make the Case View sidebars smaller and less obtrusive  
 - Make the Compose Email box bigger  
