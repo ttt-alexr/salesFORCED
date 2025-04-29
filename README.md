@@ -1,11 +1,18 @@
 # salesFORCED
 ## Salesforce administrators hate these simple tricks!
 
-### [Smaller Columns](stylus/howto.md)
+### Add your Signature
+- Coming soon
+### [Smaller Columns, Bigger Email Box](stylus/howto.md)
 - Make the Case View sidebars smaller and less obtrusive  
-### Bigger Email Box
-- Make the Compose Email box higher  
-### Make it Dark
-- Make Salesforce not melt your eyes  
-### Add Snippets
-- Add snippets back to Salesforce emails (or anywhere)
+- Make the Compose Email box bigger  
+### [Make it Dark](https://darkreader.org)
+- Download Dark Reader extension if you don't want Salesforce (or other websites) to melt your eyes
+  - [Dark Reader for Edge](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
+  - [Dark Reader for Chrome](https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en-US)
+  - [Dark Reader for Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/)
+### [Add Snippets](https://blaze.today)
+- Download Text Blaze extension to add snippets back to Salesforce emails (or anywhere)
+  - [Text Blaze for Edge](https://microsoftedge.microsoft.com/addons/detail/text-blaze-templates-and/fephhmmlanlhoiaphlodlhbmbnkmkckn)
+  - [Text Blaze for Chrome](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj?hl=en-US)
+  - [Text Blaze for Desktop](https://apps.microsoft.com/detail/9pl9khlvrqqx)
