@@ -1,0 +1,7 @@
+@-moz-document url-prefix("https://trustedtechteam.lightning.force.com/lightning/r/Case"), url-prefix("https://trustedtechteam.lightning.force.com/email/htmlbody") {
+    #leftColumn-57, [id^="leftColumn-"], .col.left-col.slds-col { flex: 0 0 20% !important; }
+    #middleColumn-57, [id^="middleColumn-"], .col.main-col.slds-col { flex: 1 0 86% !important; }
+    #rightColumn-57, [id^="rightColumn-"], .col.right-col.slds-col { flex: 0 0 20% !important; }
+    div#cke_1_contents.cke_contents { height: 505px !important; }
+    iframe[title="CK Editor Container"] { height: 550px !important; }
+    }
