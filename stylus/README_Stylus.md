@@ -11,11 +11,11 @@
 
 ![](StylusMods.png)
 
-[!TIP]
-To disable any of the modifications, open the Stylus extension and click Manage, then un-check either of the boxes next to the SalesFORCED entries.  
+> [!TIP]
+> To disable any of the modifications, open the Stylus extension and click Manage, then un-check either of the boxes next to the SalesFORCED entries.  
   
-[!TIP]
-You can click into any of the modification to modify the values, though changing the sidebar sizes isn't as easily as it looks.
+> [!TIP]
+> You can click into any of the modification to modify the values, though changing the sidebar sizes isn't as easily as it looks.
 
-[!NOTE]
-If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
+> [!NOTE]
+> If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
