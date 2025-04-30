@@ -9,7 +9,7 @@
 6. Click **Import**
 7. Select the json file you downloaded in step 2 and click **Open**
 
-![](/assets/images/StylusMods.png)
+![](StylusMods.png)
 
 Note: If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
   
