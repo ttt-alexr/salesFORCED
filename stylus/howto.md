@@ -10,5 +10,7 @@
 7. Select the json file you downloaded in step 2 and click **Open**
 
 Note: If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
+  
 Note: To disable any of the modifications, open the Stylus extension and click Manage, then un-check either of the boxes next to the SalesFORCED entries.  
+  
 Note: You can click into any of the modification to modify the values, though changing the sidebar sizes isn't as easily as it looks.
