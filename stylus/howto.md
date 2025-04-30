@@ -9,6 +9,8 @@
 6. Click **Import**
 7. Select the json file you downloaded in step 2 and click **Open**
 
+![](/assets/images/StylusMods.png)
+
 Note: If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
   
 Note: To disable any of the modifications, open the Stylus extension and click Manage, then un-check either of the boxes next to the SalesFORCED entries.  
