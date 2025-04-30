@@ -3,9 +3,10 @@
 
 ### [Add your Signature](signatures/howto.md)
 - Use a formatted signature (just like Zoho) in Salesforce
-### [Smaller Columns, Bigger Email Box](stylus/howto.md)
+### [Case View Styling](stylus/howto.md)
 - Make the Case View sidebars smaller and less obtrusive  
-- Make the Compose Email box bigger  
+- Make the Compose Email box bigger
+- Add colored backgrounds to Case Update/Create messages and Internal messages
 ### [Make it Dark](https://darkreader.org)
 - Download Dark Reader extension if you don't want Salesforce (or other websites) to melt your eyes
   - [Dark Reader for Edge](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
