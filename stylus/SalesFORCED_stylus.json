@@ -1,7 +1,7 @@
 [
   {
     "enabled": true,
-	"installDate": 1745949513886,
+    "installDate": 1745949513886,
     "name": "SalesFORCED Columns",
     "sections": [
       {
@@ -13,7 +13,7 @@
     ],
     "_id": "35f16c27-6f54-4dda-b378-d2ad1ab8f8b3",
     "id": 14,
-    "_rev": 1745949490578,
+    "_rev": 1745961468504,
     "updateDate": 1745949490577
   },
   {
@@ -30,7 +30,24 @@
     ],
     "updateDate": 1745949490577,
     "_id": "ad1f39a0-682c-4732-8035-855f140d5dc7",
-    "_rev": 1745949513887,
+    "_rev": 1745961472014,
     "id": 15
+  },
+  {
+    "enabled": true,
+    "installDate": 1746032736004,
+    "name": "SalesFORCED Feed Colors",
+    "sections": [
+      {
+        "code": "/* Target TextPost items with \"To: Internal\" */\n[data-type=\"TextPost\"] {\n  background-color: rgba(255, 255, 0, 0.2) !important; /* Semi-transparent yellow */\n  border-left: 3px solid #f2a712 !important; /* Yellow-orange left border */\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;\n}\n\n/* Target Case Updated, Case Status Updated, and Case Created posts */\n[data-type=\"TrackedChange\"], \n[data-type=\"ChangeStatusPost\"],\n[data-type=\"CaseCreation\"],\n[data-type=\"CreateRecordEvent\"] {\n  background-color: rgba(255, 200, 200, 0.2) !important; /* Semi-transparent light red */\n  border-left: 3px solid #ff6b6b !important; /* Red left border */\n  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;\n}\n\n/* Override Dark Reader modifications to specific elements */\n[data-type=\"TextPost\"] .slds-size_1-of-1,\n[data-type=\"TextPost\"] .slds-grid,\n[data-type=\"TextPost\"] ~ .commentInputArea,\n[data-type=\"TrackedChange\"] .slds-size_1-of-1,\n[data-type=\"TrackedChange\"] .slds-grid,\n[data-type=\"TrackedChange\"] ~ .commentInputArea,\n[data-type=\"ChangeStatusPost\"] .slds-size_1-of-1,\n[data-type=\"ChangeStatusPost\"] .slds-grid,\n[data-type=\"ChangeStatusPost\"] ~ .commentInputArea,\n[data-type=\"CaseCreation\"] .slds-size_1-of-1,\n[data-type=\"CaseCreation\"] .slds-grid,\n[data-type=\"CaseCreation\"] ~ .commentInputArea,\n[data-type=\"CreateRecordEvent\"] .slds-size_1-of-1,\n[data-type=\"CreateRecordEvent\"] .slds-grid,\n[data-type=\"CreateRecordEvent\"] ~ .commentInputArea {\n  background-color: inherit !important; /* Make all elements inherit parent background */\n}",
+        "urlPrefixes": [
+          "https://trustedtechteam.lightning.force.com/lightning/r/Case"
+        ]
+      }
+    ],
+    "updateDate": 1746034680332,
+    "_id": "d1b468c2-3621-4433-a5b9-6f24867eea6c",
+    "_rev": 1746034680332,
+    "id": 17
   }
 ]
