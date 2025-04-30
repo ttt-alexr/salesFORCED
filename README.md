@@ -1,7 +1,7 @@
 # salesFORCED
 ## Salesforce administrators hate these simple tricks!
 
-### [Add your Signature](signatures/howto.md)
+### [Add Your Signature](signatures/README_Signatures.md)
 - Use a formatted signature (just like Zoho) in Salesforce
 ### [Case View Styling](stylus/README_Stylus.md)
 - Make the Case View sidebars smaller and less obtrusive  
