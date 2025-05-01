@@ -1,5 +1,6 @@
 # How to Automatically Add Case Number to Calendly Meetings
 ### When customers click your Calendly link and schedule a meeting, the case number will automatically be appended to the meeting title in your calendar
+![](MeetingWithCaseNumber.png)
 1. Log in to **[Calendly](https://calendly.com/event_types)** and edit your **Event type**
 2. Click **Notifications and workflows**, then **Calendar invitation**
 3. In the **Title** section, edit your meeting title
@@ -13,5 +14,3 @@
 
 > [!WARNING]
 > If you add this to your [Salesforce signature](../signatures/README_Signatures.md), be mindful of the character limit. You can shorten your Calendly URL by editing the **Event type** and going to **Booking page options**. You may wish to clone your Event type first to avoid invalidating existing links.
-
-![](MeetingWithCaseNumber.png)
