@@ -13,3 +13,5 @@
 
 > [!WARNING]
 > If you add this to your [Salesforce signature](../signatures/README_Signatures.md), be mindful of the character limit. You can shorten your Calendly URL by editing the **Event type** and going to **Booking page options**. You may wish to clone your Event type first to avoid invalidating existing links.
+
+![](MeetingWithCaseNumber.png)
