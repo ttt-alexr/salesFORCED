@@ -14,3 +14,5 @@
 
 > [!NOTE]
 > You can modify the "Thanks," text or other properties of the template (Use your favorite AI tool if necessary), though the character limit is 1333 characters at this time so you may not have a lot of wiggle room. You may need to use a URL shortener on some of the links to buy more space, unless they expand the character limit at some point.
+
+![](MeetingWithCaseNumber.png)
