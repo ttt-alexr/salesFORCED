@@ -3,7 +3,7 @@
 
 ### [Add Your Signature](signatures/README_Signatures.md)
 - Use a formatted signature (just like Zoho) in Salesforce
-### [Case View Styling](stylus/README_Stylus.md)
+### [Case View Styling](stylus/README.md)
 - Make the Case View sidebars smaller and less obtrusive  
 - Make the Compose Email box bigger
 - Add colored backgrounds to Case Update/Create messages and Internal messages
