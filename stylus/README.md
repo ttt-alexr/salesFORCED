@@ -1,4 +1,5 @@
 # Apply custom CSS to Salesforce Case View  
+![](StylusMods.png)
 1. Download the Stylus browser extension and install it
    - [Stylus for Edge or Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
    - [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
@@ -17,5 +18,3 @@
 
 > [!NOTE]
 > If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
-
-![](StylusMods.png)
