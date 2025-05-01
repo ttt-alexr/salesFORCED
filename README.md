@@ -17,6 +17,6 @@
   - [Text Blaze for Edge](https://microsoftedge.microsoft.com/addons/detail/text-blaze-templates-and/fephhmmlanlhoiaphlodlhbmbnkmkckn)
   - [Text Blaze for Chrome](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj?hl=en-US)
   - [Text Blaze for Desktop](https://apps.microsoft.com/detail/9pl9khlvrqqx)
-### [Bonus! Add the Case Number to Calendly Meeting Titles](snippets/README_Snippets.md)
+### [Bonus! Add the Case Number to Calendly Meeting Titles](calendly/README_Snippets.md)
   - Automatically add the case number to your meetings from Calendly!
   - As easy as pasting your link into a case or using a snippet!
