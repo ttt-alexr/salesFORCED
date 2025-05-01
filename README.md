@@ -1,9 +1,9 @@
 # salesFORCED
 ## Salesforce administrators hate these simple tricks!
 
-### [Add Your Signature](signatures/README_Signatures.md)
+### [Add Your Signature](signatures)
 - Use a formatted signature (just like Zoho) in Salesforce
-### [Case View Styling](stylus/README.md)
+### [Case View Styling](stylus)
 - Make the Case View sidebars smaller and less obtrusive  
 - Make the Compose Email box bigger
 - Add colored backgrounds to Case Update/Create messages and Internal messages
@@ -17,6 +17,6 @@
   - [Text Blaze for Edge](https://microsoftedge.microsoft.com/addons/detail/text-blaze-templates-and/fephhmmlanlhoiaphlodlhbmbnkmkckn)
   - [Text Blaze for Chrome](https://chromewebstore.google.com/detail/text-blaze-templates-and/idgadaccgipmpannjkmfddolnnhmeklj?hl=en-US)
   - [Text Blaze for Desktop](https://apps.microsoft.com/detail/9pl9khlvrqqx)
-### [Bonus! Add the Case Number to Calendly Meeting Titles](calendly/README_Calendly.md)
+### [Bonus! Add the Case Number to Calendly Meeting Titles](calendly/README.md)
   - Automatically add the case number to your meetings from Calendly!
   - As easy as pasting your link into a case or using a snippet!
