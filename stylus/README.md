@@ -3,7 +3,7 @@
 1. Download the Stylus browser extension and install it
    - [Stylus for Edge or Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
    - [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-2. Click [here](https://userstyles.world/style/22175/salesforced){:target="_blank"} to open the profile in UserStyles
+2. Click <a href="https://userstyles.world/style/22175/salesforced" target="_blank">here</a> to open the profile in UserStyles (opens in a new tab)
 3. On the UserStyles page, click **Install**
 4. The Stylus extension will open. Click **Install style**
 
