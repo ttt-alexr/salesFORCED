@@ -3,18 +3,24 @@
 1. Download the Stylus browser extension and install it
    - [Stylus for Edge or Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
    - [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
-2. Click [here](SalesFORCED_stylus.json) to open the Stylus configuration
-3. Click the **Download raw file** button (top right)
-4. Click the **Stylus** extension icon in your browser
-5. Click **Manage**
-6. Click **Import**
-7. Select the json file you downloaded in step 2 and click **Open**  
+2. Click [here](https://userstyles.world/style/22175/salesforced) to open the profile in UserStyles
+3. On the UserStyles page, click **Install**
+4. The Stylus extension will open. Click **Install style**
 
-> [!TIP]
-> To disable any of the modifications, open the Stylus extension and click Manage, then un-check either of the boxes next to the SalesFORCED entries.  
-  
-> [!TIP]
-> You can click into any of the modification to modify the values, though changing the sidebar sizes isn't as easily as it looks.
+<!--
+3. Click [here](SalesFORCED_stylus.json) to open the Stylus configuration
+4. Click the **Download raw file** button (top right)
+5. Click the **Stylus** extension icon in your browser
+6. Click **Manage**
+7. Click **Import**
+8. Select the json file you downloaded in step 2 and click **Open**  
+-->
 
 > [!NOTE]
-> If you're updating to a new version of my Stylus file, Stylus will skip any entries that are already installed.  
+> Stylus will automatically update the style within 24 hours of my publishing an update. You can manually update the style by going to the Stylus extension > Manage > Check all styles for updates > Install update.  
+
+> [!TIP]
+> You can modify the values in the styles from Stylus extension > Manage page.  
+
+> [!TIP]
+> You can disable the modifications by clicking the Stylus extension while a Salesforce Case View tab is open, then unchecking the box for SalesFORCED.
