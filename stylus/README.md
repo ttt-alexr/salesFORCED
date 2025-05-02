@@ -4,7 +4,7 @@
    - [Stylus for Edge or Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
    - [Stylus for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 2. Click [here](SalesFORCED_stylus.json) to open the Stylus configuration
-3. Click the **Download raw file** button
+3. Click the **Download raw file** button (top right)
 4. Click the **Stylus** extension icon in your browser
 5. Click **Manage**
 6. Click **Import**

@@ -49,5 +49,22 @@
     "_id": "d1b468c2-3621-4433-a5b9-6f24867eea6c",
     "_rev": 1746123473870,
     "id": 17
+  },
+  {
+    "enabled": true,
+    "installDate": 1746207671199,
+    "name": "SalesFORCED Alternate Rows",
+    "sections": [
+      {
+        "code": "tr:nth-child(odd) { /* Replace .case-table with the actual table class */\n  /* Add a background color to verify */\n  background-color: rgba(132, 132, 132, .2) !important;\n}\n\n/* Override Dark Reader modifications to specific elements */\ntr:nth-child(odd) .slds-grid {\n  background-color: inherit !important; /* Make all elements inherit parent background */\n}",
+        "urlPrefixes": [
+          "https://trustedtechteam.lightning.force.com/lightning/o/Case"
+        ]
+      }
+    ],
+    "updateDate": 1746208665773,
+    "_id": "ce0ed5fa-e018-47be-b9f8-d6beec252ac7",
+    "_rev": 1746208665773,
+    "id": 18
   }
 ]
