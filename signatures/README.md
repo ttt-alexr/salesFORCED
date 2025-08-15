@@ -1,9 +1,9 @@
 # Use your HTML-formatted signature in Salesforce
 ![SignatureExample2.png](SignatureExample2.png)
 1. Get your Profile Photo link
-   1. Right-click your profile photo in your email or Zoho, click **Copy image link**
-   2. If it's an absurdly long Mimecast link or similar, paste it into your browser address bar and press Enter
-   3. It should start with "https://smart.trustedtechteam.com/photo"
+   1. Copy this link: "https://smart.trustedtechteam.com/photo/FIRST.LAST@trustedtechteam.com/office365.jpg?shape=circle"
+   2. Change FIRST and LAST to your first and last name
+   3. If this doesn't work, extract the URL from the photo in your Gmail signature (right-click, Copy image link) but **DO NOT** use the full URL, rather, find the "smart.trustedtechteam.com/photo" URL within that long URL and use it instead
 2. Click the **View Profile** icon in Salesforce (top right)
 3. Navigate to Settings > Email > My Email Settings
 4. In the Email Signature box, paste the code found [here](ttt-sig-template.html)
