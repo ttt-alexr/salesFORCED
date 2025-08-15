@@ -1,5 +1,5 @@
 # Use your HTML-formatted signature in Salesforce
-![](SignatureExample.png)
+![SignatureExample2.png](SignatureExample2.png)
 1. Get your Profile Photo link
    1. Right-click your profile photo in your email or Zoho, click **Copy image link**
    2. If it's an absurdly long Mimecast link or similar, paste it into your browser address bar and press Enter
