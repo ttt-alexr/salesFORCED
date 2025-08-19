@@ -8,6 +8,7 @@
 - Make the Compose Email box bigger
 - Add colored backgrounds to Case Update/Create messages and Internal messages
 - Added alternating-row shading to make the Case List more visible
+- **NEW:** Added color-coded shading to Case List Status column
 ### [Make it Dark](https://darkreader.org)
 - Download Dark Reader extension if you don't want Salesforce (or other websites) to melt your eyes
   - [Dark Reader for Edge](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
