@@ -1,4 +1,4 @@
-# Apply custom CSS to Salesforce Case and List views 
+# Easily modify SalesForce Case and List views for a better experience!
 ![](StylusMods.png)
 1. Download the Stylus browser extension and install it
    - [Stylus for Edge or Chrome](https://chromewebstore.google.com/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en)
