@@ -8,7 +8,7 @@
 - Make the Compose Email box bigger
 - Add colored backgrounds to Case Update/Create messages and Internal messages
 - Added alternating-row shading to make the Case List more visible
-- Added color-coding to Status in List Views
+- Added color-coded shading to Case List Status column
 ### [Auto-Refresh List Views](https://chromewebstore.google.com/detail/salesforce-grid-refresher/diomdeebfkekpekdigoijgmfgononkhp)
 - Download SalesForce Grid refresher extension to automatically refresh any SalesForce List View!
 ### [Make it Dark](https://darkreader.org)
