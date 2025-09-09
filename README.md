@@ -10,7 +10,7 @@
 - Added alternating-row shading to make the Case List more visible
 - Added color-coded shading to Case List Status column
 ### [Auto-Refresh List Views](https://chromewebstore.google.com/detail/salesforce-grid-refresher/diomdeebfkekpekdigoijgmfgononkhp)
-- Download SalesForce Grid refresher extension to automatically refresh any SalesForce List View!
+- Download SalesForce Grid refresher Extension to automatically refresh any SalesForce List View!
 ### [Make it Dark](https://darkreader.org)
 - Download Dark Reader extension if you don't want SalesForce (or other websites) to melt your eyes
   - [Dark Reader for Edge](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
