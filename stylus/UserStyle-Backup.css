@@ -1,0 +1,162 @@
+/* ==UserStyle==
+@name         SalesFORCED
+@version      20250819.22.50
+@namespace    ?
+@description  Applies various UI modifications to Salesforce Lightning
+@license      No License
+==/UserStyle== */
+
+@-moz-document regexp("^https:\\/\\/.*\\.lightning\\.force\\.com\\/email\\/htmlbody.*$") {
+/* Larger Email Box */
+div#cke_1_contents.cke_contents { height: 505px !important; }
+iframe[title="CK Editor Container"] { height: 550px !important; }
+}
+
+@-moz-document regexp("^https:\\/\\/.*\\.lightning\\.force\\.com\\/lightning\\/r\\/Case.*$") {
+/* Resized Columns */
+#leftColumn-57, [id^="leftColumn-"], .col.left-col.slds-col { flex: 0 0 20% !important; }
+#middleColumn-57, [id^="middleColumn-"], .col.main-col.slds-col { flex: 1 0 86% !important; }
+#rightColumn-57, [id^="rightColumn-"], .col.right-col.slds-col { flex: 0 0 20% !important; }
+}
+
+@-moz-document regexp("^https:\\/\\/.*\\.lightning\\.force\\.com\\/lightning\\/r\\/Case.*$") {
+/* Color Coded Feed */
+/* Target TextPost items with "To: Internal" */
+[data-type="TextPost"],
+[data-type="LinkPost"] {
+  background-color: rgba(255, 255, 0, 0.2) !important; /* Semi-transparent yellow */
+  border-left: 3px solid #f2a712 !important; /* Yellow-orange left border */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Target Case Updated, Case Status Updated, and Case Created posts */
+article.cuf-clumpItem,
+[data-type="TrackedChange"], 
+[data-type="ChangeStatusPost"],
+[data-type="CaseCreation"],
+[data-type="CaseCommentPost"],
+[data-type="CreateRecordEvent"] {
+  background-color: rgba(255, 200, 200, 0.2) !important; /* Semi-transparent light red */
+  border-left: 3px solid #ff6b6b !important; /* Red left border */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+}
+
+/* Override Dark Reader modifications to specific elements */
+[data-type="LinkPost"] .slds-size_1-of-1,
+[data-type="LinkPost"] .slds-grid,
+[data-type="LinkPost"] ~ .commentInputArea,
+[data-type="TextPost"] .slds-size_1-of-1,
+[data-type="TextPost"] .slds-grid,
+[data-type="TextPost"] ~ .commentInputArea,
+[data-type="TrackedChange"] .slds-size_1-of-1,
+[data-type="TrackedChange"] .slds-grid,
+[data-type="TrackedChange"] ~ .commentInputArea,
+[data-type="ChangeStatusPost"] .slds-size_1-of-1,
+[data-type="ChangeStatusPost"] .slds-grid,
+[data-type="ChangeStatusPost"] ~ .commentInputArea,
+[data-type="CaseCreation"] .slds-size_1-of-1,
+[data-type="CaseCreation"] .slds-grid,
+[data-type="CaseCreation"] ~ .commentInputArea,
+[data-type="CaseCommentPost"] .slds-size_1-of-1,
+[data-type="CaseCommentPost"] .slds-grid,
+[data-type="CaseCommentPost"] ~ .commentInputArea,
+[data-type="CreateRecordEvent"] .slds-size_1-of-1,
+[data-type="CreateRecordEvent"] .slds-grid,
+[data-type="CreateRecordEvent"] ~ .commentInputArea,
+article.cuf-clumpItem .slds-grid,
+article.cuf-clumpItem .cuf-ftcLink {
+  background-color: inherit !important; /* Make all elements inherit parent background */
+}
+}
+
+@-moz-document regexp("^https:\\/\\/.*\\.lightning\\.force\\.com\\/lightning\\/o\\/Case.*$") {
+/* Alternating Rows and Status Colors */
+tr:nth-child(odd) {
+  background-color: rgba(132, 132, 132, .2) !important;
+}
+
+/* Status cell positioning for pseudo-element */
+td[data-label="Status"] {
+  position: relative !important;
+}
+
+/* Create background with pseudo-element */
+td[data-label="Status"]:has(span[title*="Escalated"])::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(216, 137, 137, 0.3) !important;
+  z-index: 0;
+  pointer-events: none;
+}
+
+td[data-label="Status"]:has(span[title*="On Hold"])::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(137, 216, 216, 0.3) !important;
+  z-index: 0;
+  pointer-events: none;
+}
+
+td[data-label="Status"]:has(span[title*="In Progress"])::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(216, 216, 137, 0.3) !important;
+  z-index: 0;
+  pointer-events: none;
+}
+
+td[data-label="Status"]:has(span[title*="New"])::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(137, 216, 137, 0.3) !important;
+  z-index: 0;
+  pointer-events: none;
+}
+
+td[data-label="Status"]:has(span[title*="Snoozed"])::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(179, 137, 216, 0.3) !important;
+  z-index: 0;
+  pointer-events: none;
+}
+
+td[data-label="Status"]:has(span[title*="Customer Replied"])::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(216, 179, 137, 0.3) !important;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Override Dark Reader */
+tr .slds-grid,
+tr:nth-child(odd) .slds-grid,
+tr:nth-child(even) .slds-grid {
+  background-color: inherit !important;
+}
+}
