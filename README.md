@@ -4,10 +4,10 @@
 ### [Add Your Signature](signatures)
 - Use a formatted signature (just like Zoho) in SalesForce
 ### [Case View and Case List Styling](stylus)
-- Make the Case View sidebars smaller and less obtrusive  
+- <del>Make the Case View sidebars smaller and less obtrusive</del> (added to SalesForce by developers)
 - Make the Compose Email box bigger
-- Add colored backgrounds to Case Update/Create messages and Internal messages
-- Added alternating-row shading to make the Case List more visible
+- <del>Add colored backgrounds to Case Update/Create messages and Internal messages</del> (added to SalesForce by developers)
+- <del>Added alternating-row shading to make the Case List more visible</del> (added to SalesForce by developers)
 - Added color-coded shading to Case List Status column
 ### [Auto-Refresh List Views](https://chromewebstore.google.com/detail/salesforce-grid-refresher/diomdeebfkekpekdigoijgmfgononkhp)
 - Download SalesForce Grid Refresher extension to automatically refresh any SalesForce List View!
